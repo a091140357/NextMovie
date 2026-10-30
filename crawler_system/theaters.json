@@ -1,0 +1,137 @@
+[
+    {
+        "brand": "威秀",
+        "name": "台北信義威秀影城",
+        "address": "台北市信義區松壽路20號",
+        "latitude": 25.0356037,
+        "longitude": 121.5647001
+    },
+    {
+        "brand": "威秀",
+        "name": "台北南港LaLaport威秀影城",
+        "address": "台北市南港區經貿二路131號5樓",
+        "latitude": 25.0593449,
+        "longitude": 121.6175825
+    },
+    {
+        "brand": "威秀",
+        "name": "台北京站威秀影城",
+        "address": "台北市大同區市民大道一段209號5樓",
+        "latitude": 25.049116,
+        "longitude": 121.5185352
+    },
+    {
+        "brand": "威秀",
+        "name": "台北西門威秀影城",
+        "address": "台北市萬華區漢中街52號8-11樓",
+        "latitude": 25.0438973,
+        "longitude": 121.5071127
+    },
+    {
+        "brand": "威秀",
+        "name": "新店裕隆城威秀影城",
+        "address": "新北市新店區中興路三段70號7樓",
+        "latitude": 24.978061,
+        "longitude": 121.546478
+    },
+    {
+        "brand": "威秀",
+        "name": "板橋大遠百威秀影城",
+        "address": "新北市板橋區新站路28號10樓",
+        "latitude": 25.0140657,
+        "longitude": 121.4671538
+    },
+    {
+        "brand": "威秀",
+        "name": "中和環球威秀影城",
+        "address": "新北市中和區中山路三段122號4樓",
+        "latitude": 25.0066732,
+        "longitude": 121.4747785
+    },
+    {
+        "brand": "威秀",
+        "name": "林口MITSUI OUTLET PARK威秀影城",
+        "address": "新北市林口區文化三路一段356號3樓",
+        "latitude": 25.0703461,
+        "longitude": 121.3646799
+    },
+    {
+        "brand": "威秀",
+        "name": "MUVIE CINEMAS 台北松仁(MUCROWN)",
+        "address": "臺北市信義區西村里松仁路58號10樓",
+        "latitude": 25.0368737,
+        "longitude": 121.5653754
+    },
+    {
+        "brand": "威秀",
+        "name": "MUVIE CINEMAS 台北松仁",
+        "address": "臺北市信義區西村里松仁路58號10樓",
+        "latitude": 25.0368737,
+        "longitude": 121.5653754
+    },
+    {
+        "brand": "秀泰",
+        "name": "大巨蛋秀泰影城",
+        "address": "台北市信義區光復南路105號2樓",
+        "latitude": 25.0424,
+        "longitude": 121.5596
+    },
+    {
+        "brand": "秀泰",
+        "name": "台北欣欣秀泰影城",
+        "address": "台北市信義區光復南路105號2樓",
+        "latitude": 25.0541363,
+        "longitude": 121.5257878
+    },
+    {
+        "brand": "秀泰",
+        "name": "土城秀泰影城",
+        "address": "新北市土城區學府路二段210號",
+        "latitude": 24.9912,
+        "longitude": 121.0439
+    },
+    {
+        "brand": "秀泰",
+        "name": "樹林秀泰影城",
+        "address": "新北市樹林區樹新路40-6號",
+        "latitude": 24.995472,
+        "longitude": 121.428444
+    },
+    {
+        "brand": "國賓",
+        "name": "國賓大戲院",
+        "address": "臺北市萬華區西門里成都路88號",
+        "latitude": 25.0429258,
+        "longitude": 121.5045986
+    },
+    {
+        "brand": "國賓",
+        "name": "台北長春國賓影城",
+        "address": "臺北市中山區中央里長春路176號",
+        "latitude": 25.0545878,
+        "longitude": 121.5339852
+    },
+    {
+        "brand": "國賓",
+        "name": "新莊晶冠國賓影城",
+        "address": "新北市新莊區福興里五工路66號",
+        "latitude": 25.0638243,
+        "longitude": 121.4585994
+    },
+    {
+        "brand": "國賓",
+        "name": "林口昕境國賓影城",
+        "address": "新北市林口區文化三路一段402巷2號",
+        "latitude": 25.0739684,
+        "longitude": 121.3688139
+    },
+    {
+        "brand": "國賓",
+        "name": "淡水禮萊國賓影城",
+        "address": "新北市淡水區文化里中正路一段2號1樓",
+        "latitude": 25.1765173,
+        "longitude": 121.4294771
+    }
+]
+
+

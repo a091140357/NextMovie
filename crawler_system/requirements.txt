@@ -1,0 +1,7 @@
+curl_cffi
+requests
+beautifulsoup4
+mysql-connector-python
+pymysql
+python-dotenv
+boto3
